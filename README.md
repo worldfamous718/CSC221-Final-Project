@@ -5,6 +5,6 @@ __Owner:__ World..redacted (amccrea1@my.waketech.edu)
 
 __Project Description:__ Web scraping project to demonstrate skills in writing Webscraping scripts and visualizations
 
-__Webscraped URL:__
+__Webscraped URL:__ No Starch Python Catalog [_URL:_https://nostarch.com/catalog/python]
 
 __Collaborator:__
