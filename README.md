@@ -7,4 +7,4 @@ __Project Description:__ Web scraping project to demonstrate skills in writing W
 
 __Webscraped URL:__ No Starch Python Catalog https://nostarch.com/catalog/python
 
-__Collaborator:__
+__Collaborator:__Richard Yeta
