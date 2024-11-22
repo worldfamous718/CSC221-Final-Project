@@ -1,3 +1,4 @@
+![pAIthon Labs Logo](https://github.com/worldfamous718/pAIthon-Labs/blob/main/Labs/Logos-Files/Lab-Logo.png)
 `# CSC221 -World..redacted- Group Project
 Group Project for CSC221 2024FA
 
