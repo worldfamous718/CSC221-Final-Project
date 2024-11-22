@@ -1,5 +1,6 @@
 ![pAIthon Labs Logo](https://github.com/worldfamous718/pAIthon-Labs/blob/main/Labs/Logos-Files/Lab-Logo.png)
-`# CSC221 -World..redacted- Group Project
+
+# CSC221 -World..redacted- Group Project
 Group Project for CSC221 2024FA
 
 __Owner:__ World..redacted <amccrea1@my.waketech.edu>
