@@ -9,7 +9,7 @@ __Project Description:__ Web scraping project to demonstrate skills in writing W
 
 __Webscraped URL:__ No Starch Python Catalog https://nostarch.com/catalog/python
 
-<<<<<<< HEAD
+
 __Collaborator:__Richard Yeta (rylondola1@my.waketech.edu) ACCEPTED
 =======
 __Collaborator:__Richard Yeta (rylondola1@my.waketech.edu) ACCEPTED
