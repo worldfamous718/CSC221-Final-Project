@@ -1,15 +1,49 @@
 ![pAIthon Labs Logo](https://github.com/worldfamous718/pAIthon-Labs/blob/main/Labs/Logos-Files/Lab-Logo.png)
 
-# CSC221 -World..redacted- Group Project
-Group Project for CSC221 2024FA
+# CSC221 -World..redacted- Final Project
+Final Project for CSC221 2024FA
 
 __Owner:__ World..redacted <amccrea1@my.waketech.edu>
 
-__Project Description:__ Web scraping project to demonstrate skills in writing Webscraping scripts and visualizations
+__Project Description:__ Web scraping project to demonstrate skills in writing Webscraping scripts and data visualizations
 
 __Webscraped URL:__ No Starch Python Catalog https://nostarch.com/catalog/python
 
 
 
-__Collaborator:__Richard Yeta (rylondola1@my.waketech.edu) ACCEPTED
->>>>>>> b786b86029529a1f0b4c6e529b0a173f7fc520a5
+# Tools Used
+
+## Programming Languages and Libraries
+
+### Python
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+
+### Pandas
+![Pandas](https://img.shields.io/badge/Pandas-1.x-green.svg)
+
+### BeautifulSoup
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.x-orange.svg)
+
+### Matplotlib
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-purple.svg)
+
+## Development Environments
+
+### Anaconda
+![Anaconda](https://img.shields.io/badge/Anaconda-2021.7-yellow.svg)
+
+## IDEs
+
+### PyCharm
+![PyCharm](https://img.shields.io/badge/PyCharm-2021.2-red.svg)
+
+## Web Browsers
+
+### Jupyter Notebooks
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-6.x-lightblue.svg)
+
+## Version Control
+
+### GitKraken
+![GitKraken](https://img.shields.io/badge/GitKraken-8.x-pink.svg)
+
