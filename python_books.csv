@@ -1,39 +1,39 @@
 Title,Author,Number of Pages,Release Date,URL
-Python for Excel Power Users,Tracy Stephens,365 pp.,April 2001,https://nostarch.com//python-excel
-"Automate the Boring Stuff with Python, 3rd Edition",Al Sweigart,597 pp.,December 2023,https://nostarch.com//automate-boring-stuff-python-3rd-edition
-"Python Playground, 2nd Edition",Mahesh Venkitachalam,753 pp.,June 2024,https://nostarch.com//python-playground-2nd-edition
-"Python for Kids, 2nd Edition",Jason R. Briggs,343 pp.,November 2005,https://nostarch.com//python-kids-2nd-edition
-Dive Into Data Science,Bradford Tuckfield,451 pp.,May 2011,https://nostarch.com//dive-data-science
-"Python Crash Course, 3rd Edition",Eric Matthes,501 pp.,April 2009,https://nostarch.com//python-crash-course-3rd-edition
-Python Tools for Scientists,Lee Vaughan,672 pp.,March 2015,https://nostarch.com//python-tools-scientists
-The Art of Clean Code,Christian Mayer,368 pp.,September 2004,https://nostarch.com//art-clean-code
-Python for Data Science,Yuli Vasiliev,842 pp.,January 2015,https://nostarch.com//python-data-science
-The Book of Dash,"Adam Schroeder, Christian Mayer, and Ann Marie Ward",398 pp.,March 2016,https://nostarch.com//book-dash
-The Recursive Book of Recursion,Al Sweigart,221 pp.,May 2013,https://nostarch.com//recursive-book-recursion
-Modeling and Simulation in Python,Allen B. Downey,246 pp.,December 2010,https://nostarch.com//modeling-and-simulation-python
-Object-Oriented Python,Irv Kalb,517 pp.,June 2008,https://nostarch.com//object-oriented-python
-Make Python Talk,Mark Liu,585 pp.,December 2022,https://nostarch.com//make-python-talk
-"Black Hat Python, 2nd Edition",Justin Seitz and Tim Arnold,350 pp.,January 2000,https://nostarch.com//black-hat-python2E
-The Big Book of Small Python Projects,Al Sweigart,325 pp.,June 2018,https://nostarch.com//big-book-small-python-projects
-Learn to Code by Solving Problems,Daniel Zingaro,610 pp.,January 2012,https://nostarch.com//learn-code-solving-problems
-Learn Python Visually,Tristan Bunn,582 pp.,March 2013,https://nostarch.com//Learn-Python-Visually
-Dive Into Algorithms,Bradford Tuckfield,746 pp.,May 2007,https://nostarch.com//Dive-Into-Algorithms
-Real-World Python,Lee Vaughan,792 pp.,November 2002,https://nostarch.com//real-world-python
-Practical Deep Learning,Ronald T. Kneusel,846 pp.,February 2003,https://nostarch.com//practical-deep-learning-python
-Hardcore Programming for Mechanical Engineers,Angel Sola Orbaiceta,679 pp.,June 2000,https://nostarch.com//hardcore-programming-mechanical-engineers
-Dead Simple Python,Jason C. McDonald,636 pp.,October 2018,https://nostarch.com//dead-simple-python
-Python One-Liners,Christian Mayer,614 pp.,April 1999,https://nostarch.com//pythononeliners
-Natural Language Processing with Python and spaCy,Yuli Vasiliev,256 pp.,April 2020,https://nostarch.com//NLPPython
-"Automate the Boring Stuff with Python, 2nd Edition",Al Sweigart,431 pp.,July 2004,https://nostarch.com//automatestuff2
-Beyond the Basic Stuff with Python,Al Sweigart,709 pp.,November 2003,https://nostarch.com//beyond-basic-stuff-python
-Impractical Python Projects,Lee Vaughan,248 pp.,August 2000,https://nostarch.com//impracticalpythonprojects
-Python Flash Cards,Eric Matthes,627 pp.,January 2002,https://nostarch.com//pythonflashcards
-Serious Python,Julien Danjou,798 pp.,June 2011,https://nostarch.com//seriouspython
-Mission Python,Sean McManus,459 pp.,March 2024,https://nostarch.com//missionpython
-Math Adventures with Python,Peter Farrell,826 pp.,June 2002,https://nostarch.com//mathadventures
-Cracking Codes with Python,Al Sweigart,601 pp.,March 2018,https://nostarch.com//crackingcodes
-"Invent Your Own Computer Games with Python, 4th Edition",Al Sweigart,758 pp.,March 2016,https://nostarch.com//inventwithpython
-Learn to Program with Minecraft,Craig Richardson,668 pp.,June 2002,https://nostarch.com//programwithminecraft
-Teach Your Kids to Code,Bryson Payne,731 pp.,March 2012,https://nostarch.com//teachkids
-Doing Math with Python,Amit Saha,380 pp.,June 2004,https://nostarch.com//doingmathwithpython
-Gray Hat Python,Justin Seitz,839 pp.,October 2002,https://nostarch.com//ghpython.htm
+Python for Excel Power Users,Tracy Stephens,197,February 2003,https://nostarch.com//python-excel
+"Automate the Boring Stuff with Python, 3rd Edition",Al Sweigart,452,August 2011,https://nostarch.com//automate-boring-stuff-python-3rd-edition
+"Python Playground, 2nd Edition",Mahesh Venkitachalam,955,April 2018,https://nostarch.com//python-playground-2nd-edition
+"Python for Kids, 2nd Edition",Jason R. Briggs,702,July 2020,https://nostarch.com//python-kids-2nd-edition
+Dive Into Data Science,Bradford Tuckfield,409,January 2002,https://nostarch.com//dive-data-science
+"Python Crash Course, 3rd Edition",Eric Matthes,571,March 2014,https://nostarch.com//python-crash-course-3rd-edition
+Python Tools for Scientists,Lee Vaughan,216,November 2012,https://nostarch.com//python-tools-scientists
+Python for Data Science,Yuli Vasiliev,381,June 2006,https://nostarch.com//python-data-science
+The Art of Clean Code,Christian Mayer,392,January 2002,https://nostarch.com//art-clean-code
+The Book of Dash,"Adam Schroeder, Christian Mayer, and Ann Marie Ward",469,September 2023,https://nostarch.com//book-dash
+The Recursive Book of Recursion,Al Sweigart,880,April 2003,https://nostarch.com//recursive-book-recursion
+Modeling and Simulation in Python,Allen B. Downey,620,November 2018,https://nostarch.com//modeling-and-simulation-python
+Object-Oriented Python,Irv Kalb,328,January 2023,https://nostarch.com//object-oriented-python
+Make Python Talk,Mark Liu,478,November 2000,https://nostarch.com//make-python-talk
+"Black Hat Python, 2nd Edition",Justin Seitz and Tim Arnold,368,March 2008,https://nostarch.com//black-hat-python2E
+The Big Book of Small Python Projects,Al Sweigart,330,June 2015,https://nostarch.com//big-book-small-python-projects
+Learn to Code by Solving Problems,Daniel Zingaro,994,November 2007,https://nostarch.com//learn-code-solving-problems
+Learn Python Visually,Tristan Bunn,314,July 2021,https://nostarch.com//Learn-Python-Visually
+Dive Into Algorithms,Bradford Tuckfield,981,August 2016,https://nostarch.com//Dive-Into-Algorithms
+Real-World Python,Lee Vaughan,686,January 2020,https://nostarch.com//real-world-python
+Practical Deep Learning,Ronald T. Kneusel,665,January 2024,https://nostarch.com//practical-deep-learning-python
+Hardcore Programming for Mechanical Engineers,Angel Sola Orbaiceta,350,December 2003,https://nostarch.com//hardcore-programming-mechanical-engineers
+Dead Simple Python,Jason C. McDonald,654,November 2009,https://nostarch.com//dead-simple-python
+Python One-Liners,Christian Mayer,518,July 2006,https://nostarch.com//pythononeliners
+Natural Language Processing with Python and spaCy,Yuli Vasiliev,217,January 2018,https://nostarch.com//NLPPython
+"Automate the Boring Stuff with Python, 2nd Edition",Al Sweigart,176,November 2022,https://nostarch.com//automatestuff2
+Beyond the Basic Stuff with Python,Al Sweigart,955,May 2024,https://nostarch.com//beyond-basic-stuff-python
+Impractical Python Projects,Lee Vaughan,395,May 1999,https://nostarch.com//impracticalpythonprojects
+Python Flash Cards,Eric Matthes,823,February 2017,https://nostarch.com//pythonflashcards
+Serious Python,Julien Danjou,792,September 2006,https://nostarch.com//seriouspython
+Mission Python,Sean McManus,910,August 2013,https://nostarch.com//missionpython
+Math Adventures with Python,Peter Farrell,206,September 2018,https://nostarch.com//mathadventures
+Cracking Codes with Python,Al Sweigart,672,March 2007,https://nostarch.com//crackingcodes
+"Invent Your Own Computer Games with Python, 4th Edition",Al Sweigart,641,January 2009,https://nostarch.com//inventwithpython
+Learn to Program with Minecraft,Craig Richardson,874,November 2000,https://nostarch.com//programwithminecraft
+Teach Your Kids to Code,Bryson Payne,825,September 2020,https://nostarch.com//teachkids
+Doing Math with Python,Amit Saha,186,August 2011,https://nostarch.com//doingmathwithpython
+Gray Hat Python,Justin Seitz,797,January 2019,https://nostarch.com//ghpython.htm
