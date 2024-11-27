@@ -5,7 +5,7 @@ Final Project for CSC221 2024FA
 
 __Owner:__ World..redacted <amccrea1@my.waketech.edu>
 
-__Project Description:__ Web scraping project to demonstrate skills in writing Webscraping scripts and data visualizations
+__Project Description:__ Web scraping project to demonstrate skills in writing appropriate parsing scripts and data visualizations
 
 __Webscraped URL:__ No Starch Python Catalog https://nostarch.com/catalog/python
 
