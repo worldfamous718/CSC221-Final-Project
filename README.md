@@ -1,7 +1,7 @@
 
-![pAIthon Labs Banner](https://raw.githubusercontent.com/worldfamous718/pAIthon-Labs/main/03_Assets/logos-files/pAIthon-Labs-banner.png)
+![pAIthon Labs Banner](https://github.com/worldfamous718/CSC221-Final-Project/blob/master/.ipynb_checkpoints/csc221FP_banner_1200x350.png)
 
-# CSC221 -World..redacted- Final Project
+
 Final Project for CSC221 2024FA
 
 __Owner:__ World..redacted <amccrea1@my.waketech.edu>
