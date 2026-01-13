@@ -1,4 +1,5 @@
-![pAIthon Labs Logo](https://github.com/worldfamous718/pAIthon-Labs/blob/main/Labs/Logos-Files/Lab-Logo.png)
+
+![pAIthon Labs Banner](https://raw.githubusercontent.com/worldfamous718/pAIthon-Labs/main/03_Assets/logos-files/pAIthon-Labs-banner.png)
 
 # CSC221 -World..redacted- Final Project
 Final Project for CSC221 2024FA
