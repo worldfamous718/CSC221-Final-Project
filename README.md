@@ -1,52 +1,102 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/worldfamous718/CSC221-Final-Project/master/assets/csc221FP_banner_1200x350.png" alt="CSC 221 Final Project Banner">
+</p>
 
-![pAIthon Labs Banner](https://github.com/worldfamous718/CSC221-Final-Project/blob/master/.ipynb_checkpoints/csc221FP_banner_1200x350.png)
+<p align="center">
+  <strong>CSC 221 — Advanced Python Final Project</strong><br>
+  <em>Python Web Scraping & Data Visualization</em>
+</p>
 
+---
 
-Final Project for CSC221 2024FA
+## 📌 Project Overview
 
-__Owner:__ World..redacted <amccrea1@my.waketech.edu>
+This project was completed as the **final assignment for CSC 221 (Advanced Python)**.  
+It demonstrates the use of Python for **web scraping, data parsing, and visualization** using a real-world data source.
 
-__Project Description:__ Web scraping project to demonstrate skills in writing appropriate parsing scripts and data visualizations
+The goal was to scrape structured data from a public website, store it in a CSV file, and generate visual insights from the collected dataset.
 
-__Webscraped URL:__ No Starch Python Catalog https://nostarch.com/catalog/python
+---
 
-__Collaborator:__ Richard Londola (rylondola1@my.waketech.edu) ACCEPTED
+## 📂 Project Information
 
+- **Course:** CSC 221 – Advanced Python (Fall 2024)
+- **Owner:** World..redacted
+- **Collaborator:** Richard Londola *(accepted)*
+- **Webscraped Source:**  
+  https://nostarch.com/catalog/python
 
+---
 
-# Tools Used
+## 🧠 What This Project Demonstrates
 
-## Programming Languages and Libraries
+- Writing web scraping scripts using `requests` and `BeautifulSoup`
+- Parsing structured product data from a real commercial website
+- Cleaning and organizing scraped data
+- Exporting structured data to CSV
+- Generating visualizations from CSV data
+- Applying Python to a real-world data acquisition problem
 
-### Python
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+---
 
-### Pandas
-![Pandas](https://img.shields.io/badge/Pandas-1.x-green.svg)
+## 🛠️ Tools & Technologies
 
-### BeautifulSoup
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.x-orange.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue.svg">
+  <img src="https://img.shields.io/badge/Pandas-1.x-green.svg">
+  <img src="https://img.shields.io/badge/BeautifulSoup-4.x-orange.svg">
+  <img src="https://img.shields.io/badge/Matplotlib-3.x-purple.svg">
+</p>
 
-### Matplotlib
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-purple.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-orange.svg">
+  <img src="https://img.shields.io/badge/Anaconda-2021.7-yellow.svg">
+  <img src="https://img.shields.io/badge/GitKraken-Version%20Control-pink.svg">
+</p>
 
-## Development Environments
+---
 
-### Anaconda
-![Anaconda](https://img.shields.io/badge/Anaconda-2021.7-yellow.svg)
+## 📊 Data Output
 
-## IDEs
+The web scraping script extracts relevant information for each Python book listed on the No Starch Press website, including:
 
-### PyCharm
-![PyCharm](https://img.shields.io/badge/PyCharm-2021.2-red.svg)
+- Title
+- Author(s)
+- Price
+- Publication details (where available)
 
-## Web Browsers
+The collected data is exported to a **CSV file**, which is then used to generate visualizations showing trends in the dataset.
 
-### Jupyter Notebooks
-![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-6.x-lightblue.svg)
+---
 
-## Version Control
+## ▶️ How to Run (Quick Start)
 
-### GitKraken
-![GitKraken](https://img.shields.io/badge/GitKraken-8.x-pink.svg)
+1. Clone the repository
+2. Open the project in **Jupyter Notebook**
+3. Run the web scraping notebook to generate the CSV file
+4. Run the visualization notebook to produce graphs from the CSV data
+
+> This project was developed and tested using Anaconda and Jupyter Notebooks.
+
+---
+
+## 🎯 Why This Project Matters
+
+This project reflects how Python is used in practice to:
+- collect data from live sources
+- transform raw data into structured formats
+- derive insights through visualization
+
+These skills are directly transferable to roles involving **data analysis, automation, cybersecurity research, and scripting**.
+
+---
+
+## 👤 Author
+
+**World..redacted**  
+Python • Cybersecurity • Labbing  
+
+This repository represents applied Python skills developed through coursework and hands-on experimentation.
+
+---
 
