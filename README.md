@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/worldfamous718/CSC221-Final-Project/master/assets/csc221FP_banner_1200x350.png" alt="CSC 221 Final Project Banner">
+  <img src=https://github.com/worldfamous718/CSC221-Final-Project/blob/master/.ipynb_checkpoints/csc221FP_banner_1200x350.png>
 </p>
 
 <p align="center">
